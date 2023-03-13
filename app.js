@@ -51,7 +51,7 @@ class UI{
                    </button>
                </div> 
                <h3>${product.title}</h3>
-               <h4>$${product.price}</h4>
+               <h4>Rs${product.price}</h4>
       </article>  
      ` ; 
    }); 
@@ -106,7 +106,7 @@ class UI{
       div.innerHTML =` <img src=${item.image} alt="product"> 
                       <div>
                           <h4>${item.title}</h4>
-                          <h5>$${item.price}</h5>
+                          <h5>Rs${item.price}</h5>
                           <span class="remove-item" data-id=${item.id}>remove</span>
                       </div>
                       <div>
@@ -227,3 +227,5 @@ document.addEventListener("DOMContentLoaded",()=>{
      ui.cartLogic();
  });
 });
+
+

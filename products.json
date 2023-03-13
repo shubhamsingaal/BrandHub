@@ -3,15 +3,15 @@
     {
       "sys": { "id": "1" },
       "fields": {
-        "title": "Galaxy S10 5G",
-        "price": 910.99,
+        "title": "SweatShirts",
+        "price": 620,
         "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
       }
     },
     {
       "sys": { "id": "2" },
       "fields": {
-        "title": "Galaxy S10+",
+        "title": "SweatShirts",
         "price": 812.99,
         "image": { "fields": { "file": { "url": "./images/product-2.jpeg" } } }
       }
@@ -19,7 +19,7 @@
     {
       "sys": { "id": "3" },
       "fields": {
-        "title": "Galaxy S10",
+        "title": "SweatShirts",
         "price": 712.99,
         "image": { "fields": { "file": { "url": "./images/product-3.jpeg" } } }
       }
@@ -27,7 +27,7 @@
     {
       "sys": { "id": "4" },
       "fields": {
-        "title": "Galaxy S10e",
+        "title": "SweatShirts",
         "price": 622.99,
         "image": { "fields": { "file": { "url": "./images/product-4.jpeg" } } }
       }
@@ -35,7 +35,7 @@
     {
       "sys": { "id": "5" },
       "fields": {
-        "title": "Galaxy A2 Core",
+        "title": "SweatShirts",
         "price": 688.99,
         "image": { "fields": { "file": { "url": "./images/product-5.jpeg" } } }
       }
@@ -43,7 +43,7 @@
     {
       "sys": { "id": "6" },
       "fields": {
-        "title": "Galaxy M30",
+        "title": "Track Pants M30",
         "price": 532.99,
         "image": { "fields": { "file": { "url": "./images/product-6.jpeg" } } }
       }
@@ -51,7 +51,7 @@
     {
       "sys": { "id": "7" },
       "fields": {
-        "title": "Galaxy M20",
+        "title": "Track PantsM20",
         "price": 545.99,
         "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
       }
@@ -59,7 +59,7 @@
     {
       "sys": { "id": "8" },
       "fields": {
-        "title": "Galaxy M10",
+        "title": "Track PantsM10",
         "price": 440.99,
         "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
       }
@@ -69,7 +69,7 @@
         "id": "9"
       },
       "fields": {
-        "title": "Galaxy A80",
+        "title": "Track PantsA80",
         "price": 386.99,
         "image": {
           "fields": {
@@ -85,7 +85,7 @@
         "id": "10"
       },
       "fields": {
-        "title": "Galaxy A70",
+        "title": "Track PantsA70",
         "price": 378.99,
         "image": {
           "fields": {
@@ -101,7 +101,7 @@
         "id": "11"
       },
       "fields": {
-        "title": "Galaxy A60",
+        "title": "Track PantsA60",
         "price": 289.99,
         "image": {
           "fields": {
@@ -117,7 +117,7 @@
         "id": "12"
       },
       "fields": {
-        "title": "Galaxy A30",
+        "title": "Track PantsA30",
         "price": 248.99,
         "image": {
           "fields": {
